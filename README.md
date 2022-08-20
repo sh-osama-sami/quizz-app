@@ -1,6 +1,6 @@
 # code
 
-a simple quiz app
+a simple quiz app with the help of trivia api
 
 ![image](https://user-images.githubusercontent.com/85364511/185741154-9f07f907-2101-4b73-b953-7c74c4605d8b.png)
 
